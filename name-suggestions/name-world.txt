@@ -1,50 +1,68 @@
-Nargunal, the Kingdom of the Anvils of Dinarv
-The Principality of Nosiroth
-The Realm of Ellorwis
-The Magocracy of Ellon
-The Kingdom of Ladrione
-The Magocracy of Nargothras
-The Dominion of Nyamithlin
-Badushol, the Kingdom Beneath the Mountain
-The Dominion of Indoth
-Valonde, the Dominion of the Emerald Scepter
-Dorwine, the Kingdom of the Emerald Forest
-The Theocracy of Nandolond
-The Holy Dominion of Tirisea
-The Realm of Egroth
-Buzarak, the Kingdom of the Empyrean Spires
-The Princely Realm of Falonde
-The Dominion of Dorisea
-The Principality of Vallonde
-The Realm of Erialand
-The Dominion of Othlond
-The Mystical Kingdom of Formarest
-The Kingdom of Egiondoth
-The Magocracy of Mene
-Amarlond, the Theocracy of the Diamond Scepter
-The Theocracy of Dorothell
-The Empire of Donegrith
-The Kingdom of Orielion
-The Republic of Tirastir
-The Empire of Gulonde
-The Dominion of Eimradhond
-The Republic of Essearen
-Oriargest, the Kingdom of the Verdant Labyrinth
-The Magocracy of Esseand
-Khela, the Kingdom Beneath the Mountain
-Lindolond, the Magocracy of Scepters
-The Seventh Great Kingdom of Falone
-Nionyamar, the Kingdom of the Emerald Orb
-The Principality of Adhond
-The Theocracy of Donimris
-The Principality of Enoriad
-The Elemental Realm of Formene
-The Kingdom of Karnyamen
-The Theocracy of Negrestir
-The Kingdom of Dorine
-Nargila, the Kingdom Beneath the Mountain
-The Kingdom of Londoladr
-The Theocracy of Egrombast
-The Golden Empire of Oriargon
-The Empire of Barestir
-The Realm of Thonimrion
+Please select one favorite from each of the five groups below.
+
+Group One:
+Adhond
+Donegrith
+Dorwine
+Ellon
+Essearen
+Gulonde
+Lindolond
+Nargothras
+Nyamithlin
+Thonimrion
+
+
+Group Two:
+Amarlond
+Donomris
+Egiondoth
+Ellorwis
+Falonde
+Indoth
+Londoladr
+Nargunal
+Oriagest
+Tirastir
+
+
+Group Three:
+Amarlond
+Donomris
+Egiondoth
+Ellorwis
+Falonde
+Indoth
+Londoladr
+Nargunal
+Oriagest
+Tirastir
+
+
+Group Four:
+Barestir
+Dorisea
+Egroth
+Erialand
+Formarest
+Khela
+Nandolond
+Nionyamar
+Orielion
+Vallonde
+
+
+Group Five:
+Buzark
+Dorothell
+Eimradhond
+Esseand
+Formene
+Ladrione
+Nargila
+Nosiroth
+Othlond
+Valonde
+
+
+
